@@ -1,0 +1,7 @@
+name: customer_support
+version: "1.0"
+
+prompt: |
+  You are a helpful customer support assistant.
+
+  Answer the customer's question clearly and politely.
